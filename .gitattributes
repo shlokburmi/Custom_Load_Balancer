@@ -1,2 +1,5 @@
+# Force GitHub Linguist to detect Docker and YAML
+*.py linguist-language=Python
 Dockerfile linguist-language=Dockerfile
 docker-compose.yml linguist-language=YAML
+*.yml linguist-language=YAML
